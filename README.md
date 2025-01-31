@@ -1,0 +1,2 @@
+# Scratch-likeCodingTool
+类scratch的残废可视化代码写作，为编程语言学习能力为负的人准备，正常人谁会用这个玩意
